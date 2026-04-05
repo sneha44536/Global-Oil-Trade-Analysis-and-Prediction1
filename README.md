@@ -7,8 +7,10 @@
 # Global Oil Import & Export Analysis 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+[![Matplotlib](https://img.shields.io/badge/matplotlib-%23E06E7F.svg?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+
 
 ## Project Overview
 This project explores international oil trade data. It identifies the top exporting and importing nations and uses machine learning to understand the relationship between proven reserves, production, and consumption.
@@ -20,7 +22,7 @@ This project explores international oil trade data. It identifies the top export
 
 ## Technical Stack
 * *Language:* Python
-* *Libraries:* Pandas, Matplotlib
+* *Libraries:* Pandas, Matplotlib,numpy
 * *Models:* Linear Regression
 * *Evaluation Metrics:* Mean Squared Error (MSE), R² Score
 
