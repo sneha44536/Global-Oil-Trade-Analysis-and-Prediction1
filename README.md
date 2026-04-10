@@ -27,7 +27,7 @@ This project explores international oil trade data. It identifies the top export
 * *Evaluation Metrics:* Mean Squared Error (MSE), R² Score
 
 ## Key Insights
-* *Top Exporter:* Saudi Arabia leads with the highest export volume.
+* *Top Exporter:* Saudi Arabia leads with the highest export volume and this is visualized by the graphs.
 * *Top Importer:* The United States shows the highest import dependency in this dataset.
 * *Model Accuracy:* The Linear Regression model achieved an R² score of *0.82*, indicating a strong correlation between the chosen features and oil transport quantities.
 
