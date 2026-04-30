@@ -1,6 +1,5 @@
 # Global-Oil-Trade-Analysis-and-Prediction1
 
-
 "A data science project analyzing global oil import/export trends. Includes exploratory data analysis (EDA), trade balance visualizations, and a Linear Regression model to predict future oil transport quantities."
 
 # Global Oil Import & Export Analysis ....
