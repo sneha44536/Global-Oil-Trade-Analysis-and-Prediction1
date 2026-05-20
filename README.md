@@ -9,7 +9,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 
-
 ## Project Overview
 This project explores international oil trade data. It identifies the top exporting and importing nations and uses machine learning to understand the relationship between proven reserves, production, and consumption.
 
