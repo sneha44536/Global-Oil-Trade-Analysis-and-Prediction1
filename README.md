@@ -48,3 +48,21 @@ Global oil trade depends on:
 
 ```python
 Oil_Transport = data['Exports'] + data['Imports']
+```
+
+---
+
+## 📊 Model Performance Results
+
+- Import Prediction R²: **0.8064563097320308**
+- Export Prediction R²: **0.8221931293075062**
+- Predicted Oil Transport: **1731136.8800989836**
+
+---
+
+## 🌍 Key Insights
+
+- Top Importing Country: **United States**
+- Import Value: **9213000.0**
+- Highest Exporting Country: **Saudi Arabia**
+- Export Value: **6880000.0**
