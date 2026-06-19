@@ -46,7 +46,5 @@ Global oil trade depends on:
 
 ## 2️⃣ Feature Engineering
 
-Created a new target variable:
-
 ```python
 Oil_Transport = data['Exports'] + data['Imports']
