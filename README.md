@@ -21,11 +21,6 @@ It also builds **machine learning regression models** to predict:
 
 ---
 
-
-
-
-
-
 # 💡 Problem Statement
 
 Global oil trade depends on:
